@@ -1,3 +1,3 @@
 from tkinter import *
-window=TK()
+window=Tk()
 window.mainloop()
